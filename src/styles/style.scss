@@ -1,0 +1,40 @@
+
+body {
+  // background-color: #101010;
+  // color: #eeeeee;
+  // font-family: 'Noto Serif JP', serif;
+  // font-family: 'Playfair Display', serif;
+  font-family: initial;
+  // font-size: 13px;
+}
+
+textarea {
+  // font-family: initial;
+}
+
+.page {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  height: 100vh;
+  // display: flex;
+  // justify-content: center;
+  // align-items: center;
+}
+
+.footer {
+  background-color: #000000;
+}
+
+.bg-main {
+  color: #fff;
+  background-color: #0B346E;
+}
+
+a {
+  color: #555;
+}
+
+.max-width {
+  max-width: 960px;
+}
